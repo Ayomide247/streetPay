@@ -463,6 +463,13 @@ h6,
   );
 }
 
+.whatsapp-float {
+  position: fixed;
+  bottom: 400px;
+  right: 20px;
+  z-index: 999;
+}
+
 /*** Footer ***/
 .footer {
   margin-top: 6rem;
